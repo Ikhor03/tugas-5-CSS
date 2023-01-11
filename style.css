@@ -1,0 +1,22 @@
+.div_menu, .menu{
+    background-color:black;
+    color: white;
+    text-transform: uppercase;
+}
+
+.slider-div{
+    max-width: 100%;
+    margin: 5px 20px;
+}
+
+.slider{
+    object-position: right;
+    margin: -1px;
+    width: 50%;
+}
+
+footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
